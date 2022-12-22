@@ -3,7 +3,7 @@
 <br>
 
   <p align="center"> Click Here to Visit 
-  <a href="http://abeer-udagram.s3-website-us-east-1.amazonaws.com/home">Udagram (Abeer's version)</a>
+  <a href="http://abeer-udagram.s3-website-us-east-1.amazonaws.com">Udagram (Abeer's version)</a>
   </p>
 </div>
 
@@ -88,8 +88,8 @@ This application is provided to you as an alternative starter project if you do 
 
 ### Running on S3
 
-App is running and accessible everywhere [http://abeer-udagram.s3-website-us-east-1.amazonaws.com/home]
-![AWS S3](Screenshots\AWS S3.png)
+App is running and accessible everywhere [http://abeer-udagram.s3-website-us-east-1.amazonaws.com](http://abeer-udagram.s3-website-us-east-1.amazonaws.com)
+![AWS S3](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/AWS%20S3.png)
 
 AWS RDS ![AWS RDS](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/AWS%20RDS.png)
 
@@ -101,7 +101,7 @@ Elastic Beanstalk ![AWS EB](https://github.com/AbeerAlmakhdhub/udagram/blob/main
 
 ![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)
 
-![Passed](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/Successful%20CircleCi%20Build.png)
+![Passed](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/CircleCi.png)
 
 ---
 
