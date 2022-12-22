@@ -89,7 +89,7 @@ This application is provided to you as an alternative starter project if you do 
 ### Running on S3
 
 App is running and accessible everywhere [http://abeer-udagram.s3-website-us-east-1.amazonaws.com](http://abeer-udagram.s3-website-us-east-1.amazonaws.com)
-![AWS S3](Screenshots\AWS S3.png)
+![AWS S3](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/AWS%20S3.png)
 
 AWS RDS ![AWS RDS](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/AWS%20RDS.png)
 
