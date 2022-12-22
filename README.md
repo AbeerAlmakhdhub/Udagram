@@ -101,7 +101,7 @@ Elastic Beanstalk ![AWS EB](https://github.com/AbeerAlmakhdhub/udagram/blob/main
 
 ![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)
 
-![Passed](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/Successful%20CircleCi%20Build.png)
+![Passed](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/CircleCi.png)
 
 ---
 
