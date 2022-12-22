@@ -32,7 +32,7 @@ Deploying a developed full-stack application and deploying it into AWS to make i
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The Udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-![AWS](Docs\AWS Architecture Diagram.png)
+![AWS](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Docs/AWS%20Architecture%20Diagram.png)
 
 ## Implemented Technologies
 
@@ -52,7 +52,7 @@ This application is provided to you as an alternative starter project if you do 
 
 ## Local Installation
 
-1.  Clone the project - `git clone https://github.com/Storm-Maker/Hosting-Fullstack-AWS.git`
+1.  Clone the project
 2.  Setup environment variables
     [Do not share your environment variables on github or elsewhere]
 
@@ -88,14 +88,12 @@ This application is provided to you as an alternative starter project if you do 
 
 ### Running on S3
 
-App is running and accessible everywhere [http://abeer-udagram.s3-website-us-east-1.amazonaws.com/home](AWS S3)
-![Screenshots\AWS S3.png)
+App is running and accessible everywhere [http://abeer-udagram.s3-website-us-east-1.amazonaws.com/home]
+![AWS S3](Screenshots\AWS S3.png)
 
-AWS RDS(AWS RDS)
-![Screenshots\AWS RDS.png)
+AWS RDS ![AWS RDS](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/AWS%20RDS.png)
 
-Elastic Beanstalk(AWS EB)
-![Screenshots\AWS EB.png)
+Elastic Beanstalk ![AWS EB](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/AWS%20EB.png)
 
 ---
 
@@ -103,7 +101,7 @@ Elastic Beanstalk(AWS EB)
 
 ![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)
 
-![Passed](.D:\REPO\udagram\_\udagram\Screenshots\Successful CircleCi Build.png)
+![Passed](https://github.com/AbeerAlmakhdhub/udagram/blob/main/Screenshots/Successful%20CircleCi%20Build.png)
 
 ---
 
